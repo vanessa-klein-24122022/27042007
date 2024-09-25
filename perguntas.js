@@ -28,57 +28,62 @@ criaCartao(
     'SIM'
 )
 
-criacartao(
-    'conhecimentos gerais'
-    'de quem é a famosa frase "peno logo existo'
-    'Descartes "Je pense, donc Je suis"
+criaCartao(
+    'Conhecimentos gerais',
+    'De quem é a famosa frase "peno logo existo',
+    'Descartes "Je pense, donc Je suis'
 )
 
-criacartao(
-    'américa latina'
-    'qual a nacionaliade de Che Guevara'
-    'argentina'
+criaCartao(
+    'América latina',
+    'Qual a nacionaliade de Che Guevara',
+    'Argentina'
 )
 
-criacartao(
-    'america do sul'
-    'qual o maior país da america do sul'
-    'Brasil
+criaCartao(
+    'America do sul',
+    'Qual o maior país da america do sul',
+    'Brasil'
 )
 
-criacartao(
-    'conhecimento gerais'
-    'Quantas linhas tem no logo do serviço de streaming de música Spotify?'
+criaCartao(
+    'Conhecimento gerais',
+    'Quantas linhas tem no logo do serviço de streaming de música Spotify?',
     '3 linhas'
 )
 
-criacatao(
-    'Brasil'
-    'Qual inventor brasileiro é conhecido com o “pai da aviação”?'
+criaCartao(
+    'Brasil',
+    'Qual inventor brasileiro é conhecido com o “pai da aviação”?',
     'Santos Dumont'
 )
-criacartao(
-    'culinária'
-    'Qual dos doces abaixo é tipicamente brasileiro?'
-    'brigadeiro'
+
+criaCartao(
+    'Culinária',
+    'Qual dos doces abaixo é tipicamente brasileiro?',
+    'Brigadeiro'
 )
-criacartao(
-    'história'
-    'Qual evento histórico aconteceu entre os anos de 1914 e 1918?'
-    'primeira guerra mundial'
+
+criaCartao(
+    'História',
+    'Qual evento histórico aconteceu entre os anos de 1914 e 1918?',
+    'Primeira guerra mundial'
 )
-criacartao(
-    'conhecimentos gerais'
-    'Quantos fusos horários existem na Rússia?'
+
+criaCartao(
+    'Conhecimentos gerais',
+    'Quantos fusos horários existem na Rússia?',
     '11'
 )
-criacartao(
-    'cultura'
-    'qual a flor nacional do japão?'
-    'flor de cerejeira'
+
+criaCartao(
+    'Cultura',
+    'Qual a flor nacional do japão?',
+    'Flor de cerejeira'
 )
-criacartao(
-    'musica'
-    'qual a musica mais ouvida do spotify?'
-    'blinding lights- The Weeknd'
+
+criaCartao(
+    'Musica',
+    'Qual a musica mais ouvida do spotify?',
+    'Blinding lights- The Weeknd'
 )
