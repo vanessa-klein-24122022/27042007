@@ -30,19 +30,19 @@ criaCartao(
 
 criaCartao(
     'Conhecimentos gerais',
-    'De quem é a famosa frase "peno logo existo',
+    'De quem é a famosa frase "peno logo existo?',
     'Descartes "Je pense, donc Je suis'
 )
 
 criaCartao(
     'América latina',
-    'Qual a nacionaliade de Che Guevara',
+    'Qual a nacionaliade de Che Guevara?',
     'Argentina'
 )
 
 criaCartao(
     'America do sul',
-    'Qual o maior país da america do sul',
+    'Qual o maior país da america do sul?',
     'Brasil'
 )
 
