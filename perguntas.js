@@ -67,3 +67,18 @@ criacartao(
     'Qual evento histórico aconteceu entre os anos de 1914 e 1918?'
     'primeira guerra mundial'
 )
+criacartao(
+    'conhecimentos gerais'
+    'Quantos fusos horários existem na Rússia?'
+    '11'
+)
+criacartao(
+    'cultura'
+    'qual a flor nacional do japão?'
+    'flor de cerejeira'
+)
+criacartao(
+    'musica'
+    'qual a musica mais ouvida do spotify?'
+    'blinding lights- The Weeknd'
+)
